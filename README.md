@@ -1,0 +1,2 @@
+# Syncra
+Membuat web kasir 
